@@ -1,0 +1,26 @@
+Competition brief — make.fun "Have You Tried Turning It Off?"
+(slug: u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+
+Write one line, at most 200 characters, that a hopeless tech support agent
+says to a desperate customer. An AI judge compares the lines head to head
+in private blind rounds, and the best ranked lines share the reward pool.
+The entry is the whole submission: no code, no attachments, no second
+line. Prize pool $10, escrowed. Entry deadline 04:25 WIB, 26 November
+2026; blind round 1 cutoff 20:43 WIB, 25 November 2026.
+
+Judge criteria, most important first:
+1. A funny single-line reply from a hopeless tech support agent to a
+   desperate customer — plainly a joke, unmistakably on that subject.
+2. The joke lands: the twist is unexpected, the agent's cheerful
+   uselessness is where the humour comes from, and the customer is never
+   the butt of it.
+3. Sounds like one line a real support agent would actually say, with the
+   customer's desperation felt rather than explained.
+4. Stays tight: every word earns its place and the joke is clear on a
+   first read.
+5. Feels fresh rather than a stock line, and if it leans on a classic like
+   turning it off and on again, it twists it.
+
+Gate: entry.txt must be UTF-8 text of 1 to 199 characters, not only white
+space. Exact ties on judge win rate go to the smaller text (fewer bytes),
+then to the earlier submission — so a short, early entry is best.
